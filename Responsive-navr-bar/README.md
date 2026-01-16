@@ -27,8 +27,9 @@ It collapses into a mobile-friendly hamburger menu on smaller screens and works 
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop navbar](<img width="1054" height="630" alt="image" src="https://github.com/user-attachments/assets/905a9d44-6b8c-4e0b-8354-2356cc4746c9" />
-)
+![Desktop navbar]
+<img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/d39e31c4-9884-466b-926e-e690f9b9ce02" />
+
 
 ### Mobile View (Hamburger Menu)
 ![Mobile navbar closed]
@@ -51,4 +52,5 @@ It collapses into a mobile-friendly hamburger menu on smaller screens and works 
 
 1. Clone the repository
    since it is a collection of various projects you can copy some of the code directly
+
 
