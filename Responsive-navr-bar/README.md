@@ -3,8 +3,9 @@
 A clean, modern, and fully responsive navigation bar built with React.  
 It collapses into a mobile-friendly hamburger menu on smaller screens and works smoothly on desktop, tablet, and mobile.
 
-![Navbar preview - desktop and mobile views](<img width="1054" height="630" alt="image" src="https://github.com/user-attachments/assets/737c2058-e2f3-485d-9e86-e608300c4ace" />
-)  
+![Navbar preview - desktop and mobile views]
+<img width="1890" height="756" alt="image" src="https://github.com/user-attachments/assets/054e61c8-9342-4a21-b4ed-d450a9ef7cc0" />
+
 
 
 ## ✨ Features
@@ -30,9 +31,12 @@ It collapses into a mobile-friendly hamburger menu on smaller screens and works 
 )
 
 ### Mobile View (Hamburger Menu)
-![Mobile navbar closed](<img width="600" height="598" alt="image" src="https://github.com/user-attachments/assets/6e92ebf1-735f-4bca-b609-03a22f506f02" />
-)  
-![Mobile navbar open](<img width="715" height="599" alt="image" src="https://github.com/user-attachments/assets/3f9abfa7-65df-4198-a12f-6cc88ffe42c0" />
+![Mobile navbar closed]
+<img width="903" height="590" alt="image" src="https://github.com/user-attachments/assets/8eb22de1-9be7-4dea-9bf6-83982607054f" />
+
+![Mobile navbar open]
+<img width="909" height="707" alt="image" src="https://github.com/user-attachments/assets/d44c67ed-c17c-4d2e-bff5-7e1b1b9a14cb" />
+
 )
 
 
@@ -47,3 +51,4 @@ It collapses into a mobile-friendly hamburger menu on smaller screens and works 
 
 1. Clone the repository
    since it is a collection of various projects you can copy some of the code directly
+
