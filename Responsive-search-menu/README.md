@@ -1,16 +1,38 @@
-# React + Vite
+# Responsive Searchable Menu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, mobile-first searchable menu with real-time filtering — built with pure HTML, CSS, and vanilla JavaScript.  
+Perfect for sidebars, category navigations, documentation menus, dashboards, or admin panels.
 
-Currently, two official plugins are available:
+https://github.com/hitechLtd/front-end-projects/tree/main/ResponsiveSearchableBar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- **Real-time search filtering** — filters menu items as you type
+- **Case-insensitive** search (ignores uppercase/lowercase)
+- **Responsive design** — works beautifully on mobile, tablet, and desktop
+- **No results fallback** message when nothing matches
+- **Simple & lightweight** — zero dependencies, no frameworks
+- Clean two-column layout (menu + preview/content area)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+### Desktop view
+<img width="1886" height="809" alt="image" src="https://github.com/user-attachments/assets/2a10487c-880e-489f-b835-0807e7c7c5c0" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Mobile / narrow screen
+<img width="910" height="707" alt="image" src="https://github.com/user-attachments/assets/628e9fc7-fd56-4232-985d-a4a795009922" />
+
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3 (Flexbox + responsive design)
+- Vanilla JavaScript (React version also available in this monorepo)
+- No external libraries / frameworks
+
+## 🚀 Demo / How to Run
+
+1. Clone the monorepo (or just download this folder)
+
+   ```bash
+   git clone https://github.com/hitechLtd/front-end-projects.git
